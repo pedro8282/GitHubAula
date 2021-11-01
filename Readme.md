@@ -7,4 +7,7 @@ Olá esse projeto ensina você a como usar o Git
 - Git status 
 - Git commit -m "Nome da versão do projeto"
 - Git remote add origin URL do projeto 
+- Git push -u origin main (OBS: esse comando é usado somente uma vez!) 
+- Git push origin main 
 
+- alteração......
